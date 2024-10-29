@@ -88,8 +88,9 @@ https://github.com/user-attachments/assets/83e54866-3ca1-42ea-b221-47e95059a60c
 | Recorte de madeira de um semáforo | 1      |
 
 
-
-### Parte 5: Avaliação Pares
+### Parte 5: Ir além
+&nbsp;&nbsp;&nbsp;&nbsp; Para ir além, o que eu fiz foi utilizar um buzzer que apitasse sempre que a cor do semáforo estivesse em vermelho, a fim de avisar os pedestres a toimar cuidado. Além disso, eu fui além ao adicionar um painel lcd que mostrasse mensagens de aviso dependendo da cor que estivesse o semaforo, sendo elas: verde: pode ir, amarelo: corre e vermelho: cuidado.
+### Parte 6: Avaliação Pares
 
 ### Avaliador: Marcelo Conde Filho
 
